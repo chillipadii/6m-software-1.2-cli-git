@@ -1,0 +1,17 @@
+* {
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+
+h2{
+    background-color: pink;
+    color: rgba(154, 22, 92, 0.913);
+}
+li {
+    color:rgba(154, 22, 92, 0.913);
+}
+
+h3 {
+    font-style: italic;
+}
